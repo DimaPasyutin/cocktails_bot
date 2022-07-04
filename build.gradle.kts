@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     //Telegram bot API
-//    implementation("io.github.kotlin-telegram-bot.kotlin-telegram-bot:telegram:6.0.7")
+    implementation("io.github.kotlin-telegram-bot.kotlin-telegram-bot:telegram:6.0.7")
 
     //Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.3")
